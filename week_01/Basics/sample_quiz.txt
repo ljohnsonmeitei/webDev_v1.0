@@ -1,3 +1,0 @@
-1. Create a counter in JS from 30 to 0
-2. calculate the time it takes betweeen inner setTImeout call and inner function actially running
-3. Create a terminal clock HH:MM:SS
