@@ -1,0 +1,20 @@
+Understanding DOM
+Crome Developer tool
+What are SPA
+
+js vs jsx
+
+declarative and imparitive
+
+State, stateless, statefull and state management
+
+App.jsx
+
+function and return inside App.jsx
+Export default
+
+Configuration in VS Code
+    Extensions - rafce + ES7
+    folder structure of React Application
+    Vite Configuration
+    deploy in localhost

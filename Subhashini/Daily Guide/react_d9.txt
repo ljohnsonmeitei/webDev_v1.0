@@ -1,0 +1,5 @@
+useRef
+
+const reference = useRef(initialValue)
+
+reference.current.innertext = "new Value"

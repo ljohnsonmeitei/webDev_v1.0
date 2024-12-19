@@ -1,0 +1,15 @@
+HTML Basics 
+CSS Basics
+
+https://gamma.app/docs/Unlock-the-World-of-Web-Development-1tzhyd6jktwe08m?mode=doc
+
+Building a Personal Portfolio Website : https://ljohnsonmeitei.github.io/1_WebDev_meitech_fullstack/
+
+    Header
+    Navigation
+    Main Content
+    Footer
+
+    Element Selector
+    Class Selector
+    ID Selector

@@ -1,0 +1,17 @@
+Javascript Basics
+Async Programming
+Error Handling
+
+Building a Weather App
+
+Robust Devlopment
+    Code Modularity
+    Testing and Debugging
+    Performance Optimization
+    Code review and collaboration
+
+JS Libraries
+    React
+    Vue.JS
+    Angular
+    Node

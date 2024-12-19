@@ -1,0 +1,21 @@
+useContext
+    allows you to subscribe a react context without using the entrire component
+
+    intitializtion
+        const context = useContext(myContext)
+    Definition
+        return <div style={{background: theme.background,color: thee.color}}> Hello Sir </div>
+    call
+        <functionName />
+
+useReducer
+    alternative to useState
+    usefull for complex state logic
+
+    reducer - hold the state values comming basis on the condition
+    dispatch - access or set the state value
+                const [state, dispatch] = useReducer(value, {count:0})
+    initialState
+                eg: (value, {count:0})
+
+
